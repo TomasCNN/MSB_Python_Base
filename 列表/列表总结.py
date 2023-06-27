@@ -1,0 +1,29 @@
+'''
+    1.列表的创建
+        a.使用中括号
+        b.内置函数list()
+        c.列表生成式
+    2.增删改
+        a.增
+            append()
+            extend()
+            insert()
+            切片
+        b.删
+            remove()
+            pop()
+            clear()
+            del
+            切片
+        c.改
+            索引
+            切片
+    3.查询
+        a.查询元素索引
+        b.获取单个元素
+        c.获取多个元素
+        d。in  not/in
+    4.列表的创建
+        a.方法sort()
+        b.内置函数sorted()
+'''
